@@ -24,7 +24,7 @@ public class HelloApplication extends Application {
         });
         root.getChildren().add(canvas);
 
-        stage.setTitle("Hello!");
+        stage.setTitle("Hello!");+
         stage.setScene(scene);
         stage.show();
     }
